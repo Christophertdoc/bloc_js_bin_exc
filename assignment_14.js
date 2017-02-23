@@ -1,3 +1,4 @@
+//xokenu
 
 var favoriteNumber;
 favoriteNumber = function(fav, guess) {
